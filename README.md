@@ -1,4 +1,4 @@
-# Curso 4 
+# Curso 5 
 ## _Introducción a Java SE_
 
 Here we are simulating the logistic of scheduling appointments between patients and doctors. Our doctors are the only ones who can create appointments to show their availability. Users can login as doctors, nurses or patients, and we can identify them because their emails are previously updated in a list.

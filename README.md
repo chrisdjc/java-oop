@@ -15,6 +15,8 @@ There only languaged used is
 
 - [java] - all the files are coded in java
 
+The project was based on the Platzi course, here you can find how to install git, step by step: 
+https://platzi.com/clases/java-oop/
 
 @author
 Can Castillo Christopher de Jesus
